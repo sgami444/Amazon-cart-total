@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T04:54:42 GMT-08:00" name="Default Suite" finished-at="2023-02-08T04:56:21 GMT-08:00" duration-ms="99146">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T04:54:42 GMT-08:00" name="PersonalTrials" finished-at="2023-02-08T04:56:21 GMT-08:00" duration-ms="99146">
+      <class name="com.amazon.test.framework.checkCartTotal.TestCartTotal">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:54:42 GMT-08:00" name="setUp" finished-at="2023-02-08T04:54:46 GMT-08:00" duration-ms="3883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAmazonCart(java.lang.String)[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:54:46 GMT-08:00" name="testAmazonCart" data-provider="provideData" finished-at="2023-02-08T04:55:07 GMT-08:00" duration-ms="21742" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bike, Watch, Toy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonCart -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:55:07 GMT-08:00" name="afterTest" finished-at="2023-02-08T04:55:08 GMT-08:00" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:55:08 GMT-08:00" name="setUp" finished-at="2023-02-08T04:55:10 GMT-08:00" duration-ms="2884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAmazonCart(java.lang.String)[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:55:10 GMT-08:00" name="testAmazonCart" data-provider="provideData" finished-at="2023-02-08T04:55:35 GMT-08:00" duration-ms="25050" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hat, Pop up, plushy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonCart -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:55:35 GMT-08:00" name="afterTest" finished-at="2023-02-08T04:55:36 GMT-08:00" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:55:36 GMT-08:00" name="setUp" finished-at="2023-02-08T04:55:39 GMT-08:00" duration-ms="3304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAmazonCart(java.lang.String)[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:55:39 GMT-08:00" name="testAmazonCart" data-provider="provideData" finished-at="2023-02-08T04:56:03 GMT-08:00" duration-ms="23881" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cap, racket, pen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonCart -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:56:03 GMT-08:00" name="afterTest" finished-at="2023-02-08T04:56:03 GMT-08:00" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:56:03 GMT-08:00" name="setUp" finished-at="2023-02-08T04:56:05 GMT-08:00" duration-ms="2324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAmazonCart(java.lang.String)[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:56:05 GMT-08:00" name="testAmazonCart" data-provider="provideData" finished-at="2023-02-08T04:56:21 GMT-08:00" duration-ms="15534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Glasses, cup]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonCart -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.amazon.test.framework.checkCartTotal.TestCartTotal@2667f029]" started-at="2023-02-08T04:56:21 GMT-08:00" name="afterTest" finished-at="2023-02-08T04:56:21 GMT-08:00" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.amazon.test.framework.checkCartTotal.TestCartTotal -->
+    </test> <!-- PersonalTrials -->
+  </suite> <!-- Default Suite -->
+</testng-results>
