@@ -5,7 +5,6 @@ import com.amazon.driverFactory.DriverFactory;
 import com.amazon.pages.CartPage;
 import com.amazon.pages.HomePage;
 import com.amazon.pages.ProductPage;
-import net.bytebuddy.asm.Advice;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -65,5 +64,4 @@ public class TestBase {
         productPage = new ProductPage(driver);
         cartPage = new CartPage(driver);
     }
-
 }
