@@ -6,8 +6,6 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
 
 public class TestCartTotal extends TestBase {
     private SoftAssert sa = new SoftAssert();
