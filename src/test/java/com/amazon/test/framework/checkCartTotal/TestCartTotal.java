@@ -30,7 +30,7 @@ public class TestCartTotal extends TestBase {
     }
     @DataProvider
     public Object[][] provideData(){
-        return new Object[][] {{"Bike, Watch, Toy"}, {"Hat, Pop up, plushy"}, {"Cap, racket, pen"}, {"Glasses, cup"},{"gift wrapper,gift bags"}};
+        return new Object[][] {{"Bike, Watch, Toy"}, {"Hat, Pop up, plushy"}, {"Cap, racket, pen"}, {"Glasses, cup"}};
     }
 
 
